@@ -1,0 +1,7 @@
+{
+  "name": "wild-pack",
+  "plan": {
+    "description": "a privacy-first mobile app on the Tonk platform for groups to connect and explore. It features a real-time map of users’ locations, messaging, photo sharing, and a notification bell with a badge counting new posts. Target adventurous crews (e.g., friends, hikers) who want a decentralized, ad-free experience.pnpm run build && echo \"___TONK_CMD_FINISHED_0\""
+  },
+  "template": "react"
+}
